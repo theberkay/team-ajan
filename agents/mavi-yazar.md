@@ -22,7 +22,7 @@ Raporunun başına önce iki şey yaz: **değişiklik bütçesi** (`kurallar.md`
 | Durum | Ne yaparsın |
 |---|---|
 | İlk tur, eser yok | Eseri yaz. Raporunda iddia listesi öner (eser neyi vaat ediyor, numaralı) |
-| İlk tur, eser var | Esere **dokunma**. Yalnız iddia listesi öner. Düzeltme ikinci turda, bulgulara göre başlar |
+| İlk tur, eser var | Önce iddia listesini öner. `gorev.md` "Esere kim yazar: mavi" diyorsa aynı turda düzelt (yedeğin yerinde olduğuna bak); yalnız incelemede aşağıdaki satır geçerlidir |
 | Sonraki turlar | Aşağıdaki eşlemeyi yap ve düzelt |
 | "Yalnız inceleme" görevi | Esere dokunma; yalnız iddia listesi öner |
 | Kapı düzeltmesi (fiş öyle diyorsa) | Yalnız siyahın saydığı maddeleri düzelt; raporu `mavi-kapi.md` dosyasına yaz |
