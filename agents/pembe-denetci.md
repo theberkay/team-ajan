@@ -73,6 +73,8 @@ Bütün satırları tek tabloda topla; her KISMEN için bağı var mı, kim takt
 | Plan | Süre ve bağımlılık toplamları tutuyor mu |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`. "Bulgular"a yalnız kendi `P` satırların girer. Takıma özgü bölümlerin, bu sırayla:

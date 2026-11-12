@@ -68,6 +68,8 @@ Ayrıca:
 | Plan | Tek noktaya bağımlılık, gerçekçi olmayan süre, sahipsiz adım, geri alınamayan adım |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `K<tur>-<sıra>`. Takıma özgü bölümlerin, bu sırayla:

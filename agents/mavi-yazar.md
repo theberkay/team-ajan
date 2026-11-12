@@ -69,6 +69,8 @@ Düzeltirken:
 | Plan | Her adımın sahibi, süresi, geri alma yolu |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yolu (`takim/turlar/tur-NN/mavi.md`). Biçim `takim/sablonlar/rapor.md`. "Öne çıkanlar"a bütçeyi yaz. Sayım tablon boş kalır (satır üretmezsin). Takıma özgü bölümlerin, bu sırayla:

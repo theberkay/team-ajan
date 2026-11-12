@@ -63,6 +63,8 @@ Sınırlar:
 | Plan | Çıktısı kullanılmayan adım, gereksiz onay basamağı |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `R<tur>-<sıra>`. Takıma özgü bölümlerin, bu sırayla:

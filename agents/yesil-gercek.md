@@ -66,6 +66,8 @@ Sayma, ayrıştırma ya da çalıştırma gerektiren doğrulama senin araçları
 | Plan | Dış bağımlılıkların gerçek süresi, maliyeti, erişilebilirliği |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `Y<tur>-<sıra>`. YANLIŞ, YAPILAMAZ ve YAPILABİLİR satırlarını başlıklı yaz; DOĞRU satırlarını tek tabloda topla. Kaynaktan en çok kısa bir alıntı yap; gerisini kendi cümlenle yaz ve yerini ver. Takıma özgü bölümlerin, bu sırayla:

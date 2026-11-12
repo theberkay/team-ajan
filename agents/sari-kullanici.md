@@ -56,6 +56,8 @@ Sınırlar:
 | Plan | Planı uygulayacak kişi | Bugün ne yapacağını planı okuyarak bilebiliyor mu |
 | Diğer | En olası kullanıcı | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `U<tur>-<sıra>`. ENGEL ve ZORLUK satırları "Bulgular"a girer. Takıma özgü bölümlerin, bu sırayla:

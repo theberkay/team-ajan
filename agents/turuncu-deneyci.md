@@ -63,6 +63,8 @@ Sınırlar:
 | Plan | Süreleri topla, bağımlılık sırasını yürüt, çakışmaları bul |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `T<tur>-<sıra>`. Her bağımsız sınama kümesi bir satırdır: TUTMADI olanları başlıklı yaz, TUTTU olanları tek tabloda topla. Takıma özgü bölümlerin, bu sırayla:

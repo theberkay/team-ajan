@@ -58,6 +58,8 @@ Sınırlar:
 | Plan | Hedef → adım → sahibi → geri alma yolu |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `B<tur>-<sıra>` (yalnız YAPILMADI ve BEYAN satırları sayıma girer). Takıma özgü bölümlerin, bu sırayla:

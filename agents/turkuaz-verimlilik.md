@@ -52,6 +52,8 @@ Sınırlar: esere ve başka takımın raporuna yazma; yalnız kendi raporuna yaz
 | Ödev / yazı | Değerlendirmeye katkısı olmayan tekrar okuma ve uzun ara özetler |
 | Plan / diğer | En yakın satırı uygula ve hangisini seçtiğini yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `TQ<tur>-<sıra>`. Takıma özgü bölümler, bu sırayla:

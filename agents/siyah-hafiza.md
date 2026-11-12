@@ -62,6 +62,8 @@ Sınırlar:
 | Plan | Verilen karar ve tarih sonraki sürümde kaymış mı |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`; satır kimliği `S<tur>-<sıra>`. Başka takımın zaten yazdığı bir bozulma yeni satır değildir: kapı nedeni olarak sayılır, kaynağıyla "tekrar" yazılır. Takıma özgü bölümlerin, bu sırayla:

@@ -59,6 +59,8 @@ Soru kalıpların: Bunun sayısı ve kaynağı ne? · Bu yanlış giderse tam ol
 | Plan | Bu adım gecikirse ne olur; sahibi yokken kim yapar |
 | Diğer | En yakın satırı uygula ve hangisini seçtiğini raporuna yaz |
 
+Bu tabloda olmayan alanlar ve alanın ayrıntısı: `alanlar.md` (koordinatör fişte bölümü verir).
+
 ## Raporun
 
 Yer: fişteki çıktı yeri. Biçim `takim/sablonlar/rapor.md`. "Bulgular"a yalnız yanlış çıkan öncüller (`M` satırları) girer; sorular sayıma girmez. Takıma özgü bölümlerin, bu sırayla:
