@@ -6,6 +6,8 @@
 
 Bir işinizi (kod, mühendislik hesabı, mimari proje, ürün / arayüz tasarımı, ödev, araştırma, yazı, plan) tek gözle değil, birbirini denetleyen ayrı "takım"larla inceletir; isterseniz hata kalmayana kadar düzelttirir. Claude Code için bir eklenti paketidir. İçinde iki tür dosya vardır: **ajan** (bir takımın nasıl çalışacağını anlatan talimat) ve **beceri** (Claude'un takımları nasıl yöneteceğini anlatan talimat).
 
+Alan rehberi (`skills/takim-dongu/sablonlar/alanlar.md`) şu alanlarda takımlara neye bakacaklarını söyler: kod, mühendislik, makine, mekatronik, elektrik, ağır sanayi, mimarlık, tasarım ve dizayn, konu anlatımı ve ödev, sunum, araştırma, belgeleme, tıp, hukuk, siyaset, tarih, müzik. Tıp ve hukukta takımlar teşhis, tedavi ya da hukuki görüş vermez; yalnız metni ve kaynaklarını inceler, sonuç "uzmana danışılmalı" notu taşır.
+
 ## Kur
 
 1. Paketi sıkıştırılmış dosyadan (zip) aldıysanız önce bir klasöre çıkarın.
@@ -115,4 +117,4 @@ Yalnız birini kullanın. `kur.cmd` ile birlikte eklenti yolunu da kullanırsan�
 | `docs/` | `docs/koken.md` (nereden geldi), `docs/arastirma.md` (dayandığı yöntemler) |
 | `kur.cmd`, `kaldir.cmd` | Çift tıkla kur / kaldır |
 
-Sürüm 0.2.4. Henüz sınanmamış olanlar `docs/koken.md` sonunda listelidir.
+Sürüm 0.3.0. Henüz sınanmamış olanlar `docs/koken.md` sonunda listelidir.
