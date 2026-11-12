@@ -6,6 +6,8 @@
 
 Ipinasusuri nito ang isang gawa mo (code, kalkulasyong pang-inhenyeriya, proyektong arkitektura, disenyo ng produkto / interface, takdang-aralin, pananaliksik, sulatin, plano) hindi sa iisang mata lamang, kundi sa magkakahiwalay na "koponan" na nagsusuri sa isa't isa; kung gusto mo, ipinaaayos nito hanggang wala nang natitirang mali. Isa itong plugin package para sa Claude Code. May dalawang uri ng file sa loob: **ahente** (tagubiling naglalarawan kung paano gumagana ang isang koponan) at **kasanayan** (tagubiling naglalarawan kung paano pinamamahalaan ni Claude ang mga koponan).
 
+Sinasabi ng gabay sa larangan (`skills/takim-dongu/sablonlar/alanlar.md`) sa mga koponan kung ano ang titingnan sa mga larangang ito: code, inhinyeriya, mekanikal, mekatronika, elektrikal, mabigat na industriya, arkitektura, disenyo, pagpapaliwanag ng paksa at takdang-aralin, presentasyon, pananaliksik, dokumentasyon, medisina, batas, pulitika, kasaysayan, musika. Sa medisina at batas, hindi nagbibigay ang mga koponan ng diyagnosis, lunas o legal na opinyon; sinusuri lang nila ang teksto at ang mga pinagmulan nito, at may tala ang resulta na "kumonsulta sa eksperto".
+
 ## Pag-install
 
 1. Kung natanggap mo ang package bilang naka-compress na file (zip), i-extract muna ito sa isang folder.
@@ -117,4 +119,6 @@ Hindi kusang tinatapos ng ikalawang command ang pag-install: nagbubukas ito ng b
 | `docs/` | `docs/koken.md` (saan ito nagmula), `docs/arastirma.md` (mga pamamaraang pinagbatayan) |
 | `kur.cmd`, `kaldir.cmd` | Pag-install / pag-uninstall sa double click |
 
-Bersyon 0.2.4. Nakalista sa dulo ng `docs/koken.md` ang mga hindi pa nasusubok.
+Bersyon 0.3.0. Nakalista sa dulo ng `docs/koken.md` ang mga hindi pa nasusubok.
+
+Lisensya: MIT (LICENSE)

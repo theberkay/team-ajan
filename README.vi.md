@@ -6,6 +6,8 @@
 
 Cho một công việc của bạn (mã nguồn, tính toán kỹ thuật, đồ án kiến trúc, thiết kế sản phẩm / giao diện, bài tập, nghiên cứu, bài viết, kế hoạch) được xem xét không phải bởi một con mắt duy nhất, mà bởi các "đội" riêng biệt kiểm tra lẫn nhau; nếu muốn, cho sửa đến khi không còn lỗi. Đây là một gói plugin cho Claude Code. Bên trong có hai loại tệp: **agent** (chỉ dẫn mô tả cách một đội làm việc) và **skill** (chỉ dẫn mô tả cách Claude điều phối các đội).
 
+Hướng dẫn lĩnh vực (`skills/takim-dongu/sablonlar/alanlar.md`) cho các đội biết cần xem xét gì trong các lĩnh vực sau: mã nguồn, kỹ thuật, cơ khí, cơ điện tử, điện, công nghiệp nặng, kiến trúc, thiết kế và tạo hình, giảng giải chủ đề và bài tập, thuyết trình, nghiên cứu, tài liệu hóa, y khoa, luật, chính trị, lịch sử, âm nhạc. Trong y khoa và luật, các đội không đưa ra chẩn đoán, điều trị hay ý kiến pháp lý; họ chỉ xem xét văn bản và nguồn của nó, và kết quả kèm ghi chú "cần hỏi ý kiến chuyên gia".
+
 ## Cài đặt
 
 1. Nếu bạn nhận gói dưới dạng tệp nén (zip), hãy giải nén vào một thư mục trước.
@@ -117,4 +119,6 @@ Lệnh thứ hai không tự hoàn tất cài đặt: nó mở một cửa sổ;
 | `docs/` | `docs/koken.md` (nguồn gốc), `docs/arastirma.md` (các phương pháp làm nền tảng) |
 | `kur.cmd`, `kaldir.cmd` | Nhấp đúp để cài / gỡ |
 
-Phiên bản 0.2.4. Những gì chưa được kiểm thử được liệt kê ở cuối `docs/koken.md`.
+Phiên bản 0.3.0. Những gì chưa được kiểm thử được liệt kê ở cuối `docs/koken.md`.
+
+Giấy phép: MIT (LICENSE)

@@ -6,6 +6,8 @@
 
 Paket ini membuat pekerjaan Anda (kode, perhitungan teknik, proyek arsitektur, desain produk / antarmuka, tugas sekolah, riset, tulisan, rencana) ditinjau bukan oleh satu pasang mata, melainkan oleh "tim-tim" terpisah yang saling mengawasi; jika Anda mau, paket ini juga membuat kesalahan diperbaiki sampai tidak ada yang tersisa. Ini adalah paket plugin untuk Claude Code. Di dalamnya ada dua jenis berkas: **agen** (instruksi yang menjelaskan cara kerja sebuah tim) dan **keterampilan** (instruksi yang menjelaskan cara Claude mengelola tim-tim).
 
+Panduan bidang (`skills/takim-dongu/sablonlar/alanlar.md`) memberi tahu tim apa yang harus diperiksa di bidang-bidang ini: kode, rekayasa, mesin, mekatronika, kelistrikan, industri berat, arsitektur, desain dan perancangan, penjelasan materi dan tugas sekolah, presentasi, riset, dokumentasi, kedokteran, hukum, politik, sejarah, musik. Dalam kedokteran dan hukum, tim tidak memberikan diagnosis, pengobatan, atau pendapat hukum; tim hanya memeriksa teks dan sumbernya, dan hasilnya membawa catatan "konsultasikan dengan ahli".
+
 ## Pasang
 
 1. Jika Anda menerima paket ini sebagai berkas terkompresi (zip), ekstrak dulu ke sebuah folder.
@@ -117,4 +119,6 @@ Perintah kedua tidak menuntaskan pemasangan dengan sendirinya: sebuah jendela te
 | `docs/` | `docs/koken.md` (asal-usulnya), `docs/arastirma.md` (metode yang menjadi dasarnya) |
 | `kur.cmd`, `kaldir.cmd` | Klik ganda untuk memasang / mencopot |
 
-Versi 0.2.4. Hal-hal yang belum diuji tercantum di akhir `docs/koken.md`.
+Versi 0.3.0. Hal-hal yang belum diuji tercantum di akhir `docs/koken.md`.
+
+Lisensi: MIT (LICENSE)

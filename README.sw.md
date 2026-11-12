@@ -6,6 +6,8 @@
 
 Inafanya kazi yako (msimbo, hesabu ya uhandisi, mradi wa usanifu majengo, muundo wa bidhaa / kiolesura, kazi ya shule, utafiti, maandishi, mpango) ikaguliwe si kwa jicho moja, bali na "timu" tofauti zinazokaguana; ukitaka, inaifanya irekebishwe hadi pasibaki kosa. Ni kifurushi cha programu-jalizi kwa Claude Code. Ndani yake kuna aina mbili za faili: **wakala** (maelekezo yanayoeleza jinsi timu moja itakavyofanya kazi) na **ujuzi** (maelekezo yanayoeleza jinsi Claude atakavyoziongoza timu).
 
+Mwongozo wa nyanja (`skills/takim-dongu/sablonlar/alanlar.md`) huziambia timu cha kuangalia katika nyanja hizi: msimbo, uhandisi, mitambo, mekatroniki, umeme, viwanda vizito, usanifu majengo, usanifu na michoro, maelezo ya mada na kazi za nyumbani, uwasilishaji, utafiti, uandishi wa nyaraka, tiba, sheria, siasa, historia, muziki. Katika tiba na sheria, timu hazitoi utambuzi wa ugonjwa, matibabu wala maoni ya kisheria; hukagua tu maandishi na vyanzo vyake, na matokeo hubeba dokezo la "wasiliana na mtaalamu".
+
 ## Sakinisha
 
 1. Ikiwa umepata kifurushi kama faili iliyobanwa (zip), kwanza ifungue ndani ya folda.
@@ -117,4 +119,6 @@ Amri ya pili haimalizi usakinishaji yenyewe: hufungua dirisha; hapo unachagua wi
 | `docs/` | `docs/koken.md` (kilikotoka), `docs/arastirma.md` (mbinu kinazotegemea) |
 | `kur.cmd`, `kaldir.cmd` | Bofya mara mbili kusakinisha / kuondoa |
 
-Toleo 0.2.4. Mambo ambayo bado hayajajaribiwa yameorodheshwa mwishoni mwa `docs/koken.md`.
+Toleo 0.3.0. Mambo ambayo bado hayajajaribiwa yameorodheshwa mwishoni mwa `docs/koken.md`.
+
+Leseni: MIT (LICENSE)

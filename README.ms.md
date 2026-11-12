@@ -6,6 +6,8 @@
 
 Ia meminta kerja anda (kod, pengiraan kejuruteraan, projek seni bina, reka bentuk produk / antara muka, tugasan, penyelidikan, tulisan, rancangan) disemak bukan oleh satu mata sahaja, tetapi oleh "pasukan" berasingan yang saling memeriksa; jika anda mahu, ia meminta kerja itu dibetulkan sehingga tiada ralat lagi. Ini ialah pakej pemalam untuk Claude Code. Di dalamnya ada dua jenis fail: **ejen** (arahan yang menerangkan cara sesuatu pasukan bekerja) dan **kemahiran** (arahan yang menerangkan cara Claude mengurus pasukan).
 
+Panduan bidang (`skills/takim-dongu/sablonlar/alanlar.md`) memberitahu pasukan perkara yang perlu diperiksa dalam bidang-bidang ini: kod, kejuruteraan, mekanikal, mekatronik, elektrik, industri berat, seni bina, reka bentuk dan rekaan, penerangan topik dan kerja rumah, pembentangan, penyelidikan, dokumentasi, perubatan, undang-undang, politik, sejarah, muzik. Dalam perubatan dan undang-undang, pasukan tidak memberi diagnosis, rawatan atau pendapat undang-undang; mereka hanya memeriksa teks dan sumbernya, dan hasilnya membawa nota "rujuk pakar".
+
 ## Pasang
 
 1. Jika anda menerima pakej sebagai fail mampat (zip), ekstrak dahulu ke dalam sebuah folder.
@@ -117,4 +119,6 @@ Arahan kedua tidak menyelesaikan pemasangan dengan sendirinya: ia membuka teting
 | `docs/` | `docs/koken.md` (dari mana asalnya), `docs/arastirma.md` (kaedah yang menjadi asasnya) |
 | `kur.cmd`, `kaldir.cmd` | Pasang / nyahpasang dengan klik dua kali |
 
-Versi 0.2.4. Perkara yang belum diuji disenaraikan di hujung `docs/koken.md`.
+Versi 0.3.0. Perkara yang belum diuji disenaraikan di hujung `docs/koken.md`.
+
+Lesen: MIT (LICENSE)
