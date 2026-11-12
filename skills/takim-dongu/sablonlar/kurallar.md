@@ -308,7 +308,7 @@ Koordinatörün kullanıcıya verdiği her çıktı bu kalıba uyar. Kalıp yaln
 | Normal | + Yeşil, Gri, Turuncu | 5 |
 | Tam | + Mor, Sarı, Siyah, Beyaz | 10 |
 
-- Boya tek tek takım eklenebilir. Koordinatör kendiliğinden ekler: tür ödev, araştırma, yazı ya da tasarımsa (ürün / arayüz / grafik) hızlı boya Sarı'yı; satır doğrulaması çalıştırma gerektiriyorsa Turuncu'yu.
+- Boya tek tek takım eklenebilir. Koordinatör kendiliğinden ekler: alanın önerdiği takımları (`alanlar.md` "Önerilen boy"); satır doğrulaması çalıştırma gerektiriyorsa Turuncu'yu.
 - Eklenen takım kendi adımında çalışır ve defteri kurulur.
 - Turkuaz hiçbir boyda varsayılan değildir; koordinatör uzun ya da çok turlu işlerde ekler.
 

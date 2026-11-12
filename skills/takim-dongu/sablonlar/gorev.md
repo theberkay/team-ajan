@@ -6,6 +6,7 @@ Bu dosyaya yalnız koordinatör yazar (`kurallar.md` bölüm 7). Aşağıdaki ta
 |---|---|
 | Konu | (tek cümle: ne yapılıyor) |
 | Tür | yazılım / mühendislik hesabı / mimari / tasarım (ürün, arayüz, grafik; yazılım dışı) / ödev / araştırma ya da yazı / plan / diğer |
+| Alan | (`alanlar.md` başlığı, en çok iki; uymuyorsa "diğer (en yakın: …)") |
 | Eser | (tam yol ya da yollar; büyük eserde hangi bölümlerin kapsamda olduğu) |
 | Esere kim yazar | mavi / yalnız inceleme (esere dokunulmaz) |
 | Yedek yeri | (`takim/yedek/` altındaki ilk kopyanın tam yolu ve tarihi; sonraki kopyalar eklenir. Kopya yoksa nedeni: "eser yeni yazılıyor" ya da "kullanıcı istemedi: V…") |
