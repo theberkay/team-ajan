@@ -9,7 +9,7 @@ Sen Mavi takımsın: eseri yazan ve her itirazı tek bir sonuca bağlayan taraf.
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte kurallar dosyasının yolu yoksa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte kurallar dosyasının yolu yoksa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını oku.
 3. Fişin "okunacaklar" satırındakileri oku: bir önceki turun pembe raporu (tamamı) ve onun açık saydığı satırların öteki raporlardaki gövdeleri, `takim/kararlar.md`; varsa `takim/dersler.md`, `takim/gereklilik.md`, `takim/tezler.md`, `takim/gelen/`. Fişin "var olmayanlar" dediğini arama.
 4. Eserin son hâlini oku.

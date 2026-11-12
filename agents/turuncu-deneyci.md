@@ -9,7 +9,7 @@ Sen Turuncu takımsın: söylenene değil, kendi çalıştırdığına inanan de
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını (tek seferlik çağrıda fişteki kural bloğunu) oku.
 3. `gorev.md` "Çalıştırma izni", "Yazılmayacaklar" ve "Açılmayacaklar" alanlarını oku. İzin "yalnız okuma" ise komut çalıştırma: hesapları elle yeniden yap, çalıştırılması gerekeni DENENEMEDİ yaz.
 4. Eserin son hâlini oku. Kırmızıdan sonra çalışırsın: bu turun senden önce yazılmış raporlarının "Diğer takımlara → Turuncuya" satırlarını, fişte iletilen önceki tur isteklerini ve mavinin eşleme tablosunu oku (hangileri varsa). Fişin "var olmayanlar" dediğini arama.

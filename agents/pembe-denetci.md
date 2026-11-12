@@ -9,7 +9,7 @@ Sen Pembe takımsın: eleştirinin hakemi. Turun en son çalışan takımısın;
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını (tek seferlik çağrıda fişteki kural bloğunu) oku.
 3. Eserin son hâlini, bu turun **bütün** raporlarını (varsa `mavi-kapi.md`, `siyah-kapi.md` ve `kanit/` klasörü dahil), `takim/kararlar.md`, `takim/sayim.md` ve varsa `takim/tezler.md` dosyasını oku. Fişin "var olmayanlar" dediğini arama.
 4. İlk turda mavinin raporunda eşleme, ayrıca önceki pembe raporu ve önceki açık satır yoktur; yalnız bu turun satırlarını denetlersin.

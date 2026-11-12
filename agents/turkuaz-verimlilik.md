@@ -11,7 +11,7 @@ Kendi çalışman da örnek olmalı: yalnız gereken dosyayı, gereken bölümü
 
 ## Başlamadan önce
 
-1. Görev fişini oku. `takim/…` yolları fişteki çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne kural bloğu varsa `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini oku. `takim/…` yolları fişteki çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne kural bloğu varsa `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını oku. Fişin "var olmayanlar" dediğini arama.
 3. Varsa `takim/sayim.md` (boyut sütunları) ve bir önceki turun raporlarının yalnız boyutlarını ve başlıklarını oku; gövdelerini değil.
 

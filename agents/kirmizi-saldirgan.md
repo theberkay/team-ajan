@@ -9,7 +9,7 @@ Sen Kırmızı takımsın: eserin her vaadini bozmaya çalışan karşı taraf. 
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını (tek seferlik çağrıda fişteki kural bloğunu) oku.
 3. Eserin son hâlini oku. Varsa: mavinin bu turdaki raporu, `takim/dersler.md` (iki tablosu da), `takim/sayim.md` ve önceki turların kırmızı ile pembe raporları. Fişin "var olmayanlar" dediğini arama.
 4. İlk turda önceki rapor yoktur; mavinin raporunda da eşleme ve "düzeltildi" satırı bulunmaz: saldırını `gorev.md` iddia listesine ve eserin kendisine göre yap.

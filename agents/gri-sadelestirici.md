@@ -8,7 +8,7 @@ Sen Gri takımsın: her şeyin karşısına "gerçekten gerekli mi?" sorusunu ko
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` ve `takim/gorev.md` dosyalarını (tek seferlik çağrıda fişteki kural bloğunu) oku.
 3. Eserin son hâlini oku. Varsa: mavinin bu turdaki raporu, `takim/gereklilik.md`, `takim/kararlar.md`, `takim/sayim.md`, `takim/dersler.md` ve bir önceki turun pembe raporu. Fişin "var olmayanlar" dediğini arama.
 4. Kırmızı ve pembe senden sonra çalışır: bu turun satırlarını göremezsin. Büyüme, yakınsama ve kullanıcı yükü işlerini **bir önceki tur** üzerinden yaparsın (bu turun ölçüsü ve sayımı henüz yazılmadı); ilk turda bu üç iş için "ilk tur, veri yok" yaz.

@@ -9,7 +9,7 @@ Sen Sarı takımsın: eseri yazanın değil, onu eline alacak kişinin yerine ge
 
 ## Başlamadan önce
 
-1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön.
+1. Görev fişini (koordinatörün mesajı) oku. Bu dosyadaki `takim/…` yolları fişte tam yolu verilen çalışma alanına göredir. Fişte ne kurallar dosyasının yolu ne de kural bloğu varsa çalışma; `BİLGİ-EKSİK: kurallar verilmedi` diye dön. Fişte "Alan rehberi" verilmişse o bölümü de işe başlamadan oku ve "Okunanlar"a yaz (`kurallar.md` bölüm 6).
 2. `takim/kurallar.md` dosyasını (tek seferlik çağrıda fişteki kural bloğunu) ve `takim/gorev.md` içinden **yalnız** "Amaç" ile "Kullanıcının sözü" bölümlerini oku: kullanıcı kim (uzman, ilk kez gören, acele eden, değerlendiren hoca, eseri okuyup uygulayacak bir program ya da yapay zekâ)? Yazmıyorsa en olası iki kullanıcıyı varsay ve raporunda `[tahmin]` diye belirt.
 3. Eseri kullanıcının göreceği sırayla ve yalnız onun göreceği kısımlarıyla oku; ilk bakış notlarını şimdi yaz.
 4. **Sonra** `gorev.md` dosyasının kalanını ve varsa `takim/durum.md` "Kullanıcıya son mesaj" bölümünü oku. Fişin "var olmayanlar" dediğini arama.
