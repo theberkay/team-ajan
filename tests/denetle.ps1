@@ -87,7 +87,7 @@ foreach ($b in $beklenenBeceri) {
     }
 }
 foreach ($d in (Get-ChildItem -LiteralPath (Join-Path $Kok 'skills') -Directory -ErrorAction SilentlyContinue)) { if ($beklenenBeceri -cnotcontains $d.Name) { Sorun "skills\$($d.Name) beklenen uc beceri arasinda degil (kur.cmd kopyalamaz)" } }
-foreach ($s in 'kurallar.md','gorev.md','rapor.md','dersler.md','defterler.md') {
+foreach ($s in 'kurallar.md','gorev.md','rapor.md','dersler.md','defterler.md','alanlar.md') {
     if (-not (Test-Path -LiteralPath (Join-Path $Kok "skills\takim-dongu\sablonlar\$s"))) { Sorun "sablon yok: skills\takim-dongu\sablonlar\$s" }
 }
 
