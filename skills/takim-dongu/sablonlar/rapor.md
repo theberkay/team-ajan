@@ -15,6 +15,7 @@ Durum: BİTTİ / BİTTİ-KAYGIYLA / TAKILDI / BİLGİ-EKSİK — (tek cümle)
 | Ne | Tarih ya da sürüm | Not |
 |---|---|---|
 | Eser: … | … | tamamı / şu bölümleri |
+| Alan rehberi: `alanlar.md` bölüm … | … | fişte verildiyse zorunlu (`kurallar.md` bölüm 6); bu satır yoksa rapor geçersiz |
 | `takim/kurallar.md`, `takim/gorev.md` | … | |
 | Önceki raporlar ve defterler: … | … | yoksa "yok" |
 | Bilerek açılmayanlar | | neden |

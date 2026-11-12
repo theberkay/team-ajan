@@ -256,6 +256,7 @@ Her şartı pembe, raporunun "Bitiş şartları" tablosunda değerlendirir. Bağ
 | 3 | Eser ya da `takim/` dosyaları mavi ve koordinatör dışında değişti (döngü becerisi bölüm 6, 1. iş) | Dur; farkı göster, sor |
 | 4 | Kullanıcıya sorulması gereken (bölüm 4) bir açık karar var ve cevabı gelmeden hiçbir açık satır üzerinde çalışılamıyor | Dur; kararları tek mesajda sor |
 | 5 | Bitiş şartları ancak koordinatörün bu tur taktığı bağla sağlanıyor | Dur; bağları bildir |
+| 5b | Bitiş şartlarından biri yalnız kullanıcıya sorulmuş bir karara (bölüm 4 a–c) bağlı, karar en az iki turdur cevapsız ve bu turun yeni satırlarının hiçbiri AŞILDI değil | Dur; o kararı tek soruyla, "cevap gelmezse"siyle sor: cevapsız turlar bitişi yaklaştırmaz |
 | 6 | Bitiş ölçütünün bütün şartları sağlandı | Bitir; bitiş raporunu (yalnız incelemede inceleme raporunu) ver |
 | 7 | Tur tavanı doldu | Dur; durumu sun, devam mı diye sor. Yalnız inceleme görevinde: inceleme raporunu ver, düzeltme isteyip istemediğini sor |
 | 8 | Yakınsama freni tuttu | Dur; açık kalanları bildir |
