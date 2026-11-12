@@ -1,0 +1,12 @@
+{
+  "name": "takim-ajan-yerel",
+  "description": "Takım Ajan eklentisinin yerel kurulum kaynağı",
+  "owner": { "name": "Takım Ajan" },
+  "plugins": [
+    {
+      "name": "takim-ajan",
+      "source": "./",
+      "description": "Renkli takımlarla çok bakışlı inceleme döngüsü (her konu için)"
+    }
+  ]
+}
