@@ -49,7 +49,7 @@ Boylar, tur tavanları, boya takım ekleme, kipler ve boyda olmayan takımın i�
 
 ## 3. Kurulum (bir işin başında bir kez)
 
-1. **Görevi anla.** İstekten çıkar: konu, tür, eser (tam yol), amaç, kullanıcının kuralları, yazılmayacaklar, açılmayacaklar. Eserin yeri ya da amacı eldeki dosyalardan da çıkmıyorsa tek mesajda sor; gerisinde makul varsayılanı seç.
+1. **Görevi anla.** İstekten çıkar: konu, tür, eser (tam yol), amaç, kullanıcının kuralları, yazılmayacaklar, açılmayacaklar. Eserin yeri ya da amacı eldeki dosyalardan da çıkmıyorsa tek mesajda sor; gerisinde makul varsayılanı seç. İşin alanını `alanlar.md` başlıklarından seç ve `gorev.md` "Alan" satırına yaz.
 2. **Esere yazılacak mı?** İstekte düzeltme isteği ("düzelt", "hata kalmasın", "uğraşsın", "yaz") varsa: mavi yazar. Yalnız inceleme isteniyorsa ("incele", "bak", "dokunmasınlar") ya da belirsizse: **yalnız inceleme** (`kurallar.md` bölüm 4); kullanıcıya düzeltme isterse söylemesinin yeteceğini bildir.
 3. **Kip ve boy.** Tek bir soru soruluyorsa odak, yoksa geniş. Odak kipinde sorunun olası cevaplarını tez olarak yaz ve tarafları ilk turun fişinde ata (`kurallar.md` bölüm 11). Boyu kullanıcı söylemediyse işin büyüklüğüne ve yanlış çıkmasının bedeline göre seç.
 4. **Dosyaları yaz.** Şablonlar `${CLAUDE_SKILL_DIR}/sablonlar/` klasöründedir.
@@ -59,6 +59,7 @@ Boylar, tur tavanları, boya takım ekleme, kipler ve boyda olmayan takımın i�
    | `kurallar.md` | `takim/kurallar.md` (aynen) |
    | `gorev.md` | `takim/gorev.md` (doldurulmuş; "Kullanıcının sözü" ve "Anladığım" dahil) |
    | `rapor.md` | `takim/sablonlar/rapor.md` (aynen) |
+   | `alanlar.md` | Kopyalanmaz; fişte `${CLAUDE_SKILL_DIR}/sablonlar/alanlar.md` tam yoluyla ve bölüm adıyla verilir |
    | `dersler.md` | `takim/dersler.md` (yalnız boyda siyah varsa) |
    | `defterler.md` | İçindeki her ```markdown bloğunun içi, başlığında adı yazan dosyaya |
 
@@ -78,6 +79,7 @@ Takım: <renk> | Tur: <NN> | Adım: <no> | Boy: <boy> | Kip: <geniş | odak: sor
 Kurallar: <tam yol>/takim/kurallar.md   Okunacak bölümler (2, 3, 6, 7'ye ek): <numaralar | tamamı (varsayılan)>
 Görev: <tam yol>/takim/gorev.md
 Eser (tam yol): <...>
+Alan rehberi: <tam yol>/alanlar.md bölüm <alan>   (yalnız bu bölümü oku; alan "diğer" ise "yok")
 Bu turdaki işin: <tek cümle; ör. "ilk tur, eser var: yalnız iddia listesi öner">
 Okunacaklar (tam yol): <rapor ve defterler; bu takıma yazılmış, henüz okunmamış "Diğer takımlara" istekleri>
 Var olmayanlar (arama): <bu boyda ya da turda olmayan dosyalar>
