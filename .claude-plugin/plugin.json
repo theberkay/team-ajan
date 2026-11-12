@@ -1,6 +1,6 @@
 {
   "name": "takim-ajan",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "Team Ajan: bir işi birbirini denetleyen takımlarla inceletir ve istenirse düzelttirir. Her konuda çalışır: yazılım, mühendislik hesabı, ödev, araştırma, yazı, plan.",
   "author": { "name": "Team Ajan" },
   "keywords": ["takim", "inceleme", "dongu", "review", "multi-agent"]
